@@ -154,6 +154,7 @@ form input.operator{
 
 ```
 ## OUTPUT:
-![output](./calculator.png)
+![image](https://github.com/AzeezBT/standard-calculator/assets/150319523/d0640a46-90bc-435c-879b-a226ce415e7b)
+
 ## Result:
 The program run sucessfully.
